@@ -63,6 +63,10 @@ figure".
     - Could it be meme-able like *Attention is all you need* and the variations that followed?
 - Could your title fit on someone else's paper in the conference? If so, it's too vague.
 
+## Keywords
+
+- A keywords section may be helpful and worth having.
+
 ## Introduction
 
 - Very important section because by the time a reviewer is finished reading it, psychologically they will probably already have formed and accept/reject decision in their mind.
