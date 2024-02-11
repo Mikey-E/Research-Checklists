@@ -20,7 +20,6 @@ don't worry too much because the authors will have a chance to rebut.
 
 ## Strengths
 
-- Is the problem clearly stated and motivated?
 - A runtime analysis might be a good thing to have in a paper. Not that you should necessarily always ask for this as a reviewer, but it's nice to have.
 - Beating the SOTA is not always necessary - you could have worse performance
 than the SOTA yet massive improvements in algorithm/time/space/etc. Likewise
@@ -42,6 +41,8 @@ you should try to do the same with your review.
 - Don't just say something is wrong, let them know what should be different.
 
 ### Importance/Relevance
+
+- Is the problem clearly stated and motivated?
 
 ### Novelty/Originality
 - Novelty is desirable but not always quantifiable/defined/clear-cut.
