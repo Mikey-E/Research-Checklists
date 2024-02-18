@@ -115,3 +115,4 @@ consider it. But if the way you went wrong is so idiosyncratic that it's of no
 use to anyone, then probably not. The negative result should have generality in
 order to be worth publishing.
 - "Future Work" sections are bad. There's no credit for what you didn't do.
+- Having a small subsection where the contributions of the paper are bulleted out may be good.
