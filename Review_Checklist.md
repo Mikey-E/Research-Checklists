@@ -55,6 +55,8 @@ you should try to do the same with your review.
 
 ### Experimental Validation
 
+- Are results shown with error bars, so that conclusions are statistically significant?
+
 ### Clarity of presentation
 
 ### Reference to prior work
@@ -85,3 +87,57 @@ better.
     - Gender.
     - Etc.
 - Ideally this is a dialogue with the authors, but in practice it will just be review -> rebut -> final decision.
+
+## The 3-pass approach (S. Keshav - How to read a paper)
+
+- Idea is to get a bird's eye view before drowning in the details
+
+### First pass
+
+- Should take about 5-10 minutes
+- Get general idea of paper
+- Carefully read
+    - title
+    - abstract
+    - introduction
+    - section and subsection headings
+        - ignore everything else
+    - conclusion
+- Glance over the references, mentally ticking off ones you've already read/discovered
+- At the end, you should be able to answer the 5 Cs:
+    - Category
+    - Context
+    - Correctness
+    - Contributions
+    - Clarity
+- At this point, you might choose not to read any further
+
+### Second pass
+
+- Should take about 1 hour
+- Grasp content but not details
+- Ignore proofs
+- Make comments in notes or margins as you read
+- Look at figures. Graphs should be labeled properly and have error bars
+- Mark relevant unread references for further reading (i.e. decide which references are worth reading/skimming yourself)
+- Should be able to summarize the main points of the paper, with supporting evidence, to someone else, even if this paper topic is not your specialty
+    - But you may not necessarily understand the paper at the end of the second pass. It's fine to set it aside for later
+
+### Third pass
+
+- Can take about 4+ hours
+- Understand the paper in depth
+- You are virtually reimplementing it
+    - This allows you to spot its hidden failings and assumptions
+- Jot down any ideas for future work
+- Identify implicit assumptions, missing citations or relevant work, potential issues with experimental or analytical techniques
+
+### Doing a Lit Survey (may become it's own list in the future)
+
+- Google scholar
+- CiteSeer
+- Find the 3-5 most popular papers in your area, do one pass to get a sense of the work, then note down the references and authors. These are the key works and researchers in the field
+    - Go to websites of key researchers and see what/where they've published recently
+- Keep an eye out for survey papers
+- Go to websites of top conferences in your field and look thru the recent papers
+- Recursively find more works as you read the papers
