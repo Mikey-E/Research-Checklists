@@ -95,6 +95,7 @@ figure".
 - Compare your solution(s) to others' and to baselines.
 - If you have a new benchmark in your paper, you still want to compare to the
 closest benchmark from before, and explain why your new benchmark is warranted.
+- Should discuss the limitations of the model, including critical cases.
 
 ## Conclusion
 
