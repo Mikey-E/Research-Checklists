@@ -7,7 +7,7 @@
 - Sort concerns by importance (if known).
 - Answer unambiguously and short.
 - It may be worth having a "general" section at the top that addresses any issues that apply to multiple reviewers.
-    - Having a general section may be to your disadvantage, because you don't want to be pointing out *more* potential problems in your paper to reviewers, problems that they might've not focused on.
+    - Having a general section may be to your disadvantage, because you don't want to be pointing out *more* potential problems in your paper to reviewers, problems that they might've not focused on. Grouping questions by reviewer makes them much more likely to only read their own section.
 - If you were wrong, own it. Just try to do it in a way that still makes you look good.
 - Thank them for their constructive feedback.
 - The reviewer most likely listed strengths of your paper, re-emphasize those in your rebuttal so you're reminding the reviewer of the positives.
