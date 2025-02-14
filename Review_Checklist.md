@@ -1,5 +1,16 @@
 # Review Checklist
 
+## Check if other reviews of the paper have been made publicly available (but don't read them before making your own review since you don't want to bias your own review)
+
+- Outright search for such reviews
+- Check for reviews on OpenReview.net
+- Look on Publons (Web of Science Reviews)
+- Search on google scholar and semantic scholar
+- Check the conference website if it was submitted to a conference
+- Check for Reddit, Twitter discussions - presumably these are not formal reviews
+- Check ArXiv for any public comments
+- (NLP papers) Check ACL Anthology
+
 ## Before choosing what to review
 
 - It helps greatly that you have a direction and topic in mind before choosing what to review.
